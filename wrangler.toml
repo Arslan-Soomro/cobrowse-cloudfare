@@ -1,0 +1,4 @@
+name = "cobrowse-jwt"
+main = "src/index.js"
+compatibility_date = "2023-03-13"
+node_compat = true
